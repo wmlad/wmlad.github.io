@@ -1,50 +1,44 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About the Washington Merged Longitudinal Administrative Data"
+excerpt: "About WMLAD"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+The Washington Merged Longitudinal Administrative Data (WMLAD) is  a novel data resource comprising longitudinal and geocoded administrative records from seven Washington state agencies. WMLAD is a uniquely comprehensive data source, made possible by the high quality of Washington’s data systems. Records are linked using a single unique person identifier, allowing researchers to merge information from different state agencies and follow individuals over time. All datasets cover the period 2010-2016, with some covering longer periods. Together, these records contain information on over 10 million individuals, representing a near-census of Washington’s adult residents during this time.
 
-A data-driven personal website
+The datasets included in WMLAD touch on important economic and social indicators, with rich information on employment, social services, residential location and mobility, and demographic characteristics. State Unemployment Insurance (UI) records report quarterly, job-level hours worked and wages earned, enabling granular analysis of labor market trends. Notably, Washington is one of only four states that report data on hours worked in these records. Records from the Department of Social and Health Services (DSHS) and Health Care Authority indicate participation and benefits received for a number of key public assistance programs. Birth records from the Department of Health contain rich demographic information on parents of children born in Washington. Washington State Patrol records contain detailed information on arrests. Voter records from the Secretary of State track voting behavior. 
+
+In addition, the WMLAD team at UW has worked to further enhance these records by compiling information on residential address and demographic characteristics across sources. The team is developing novel methods to compile address data (from voter records, driver’s license records, DSHS client records, and birth records) and create longitudinal residential address histories at the Census block level. Demographic data on racial and ethnic identity, age, and sex are also compiled from multiple data sources to construct a more comprehensive demographic profile of important populations, such as Washington workers.
+
+
+Background on WMLAD’s Development
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In 2014, the City of Seattle passed a minimum wage ordinance requiring employers to increase workers’ pay to at least $15 per hour over the course of several years. A group of University of Washington faculty convened to study the impact of this wage ordinance on a set of outcomes (i.e. the University of Washington Minimum Wage Study, or MWS). The MWS has drawn upon Unemployment Insurance (UI) data generated by the Washington State Employment Security Department as a principal data source. The MWS used UI data on quarterly earnings and hours worked to assess the impact of Seattle’s minimum wage ordinance on hours, wages, and earnings. 
 
-Getting started
+However, UI data alone cannot answer many key questions about poverty and inequality. These data do not link workers to households , meaning poverty rates cannot be calculated, and primary and secondary earners cannot be identified. In addition, for low-income households who rely on a combination of earnings and means-tested benefits, wage data can only partially describe household economic well-being. Furthermore, UI data lack information about the demographic or social characteristics of workers beyond wage level and industry. Age, race, ethnicity, gender, and nativity play large roles in labor market success, but Washington’s UI data cannot speak to these dimensions. The lack of these demographic characteristics limits the ability to evaluate distributional effects of minimum wage increases. 
+
+In response to these limitations, researchers at UW teamed up with Washington state researchers to generate a merged data resource that could supplement UI records with information from other state agencies. WMLAD resolves many of the limitations of the MWS data by merging UI data with state voting records, the drivers’ license database, public assistance and child support records, vital statistics, and select criminal justice system records. 
+
+Enhancing WMLAD Administrative Records with Demographic and Geographic Information
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Building on the original administrative records from state agencies, the WMLAD team at UW has worked to enhance these records by compiling information on demographic characteristics and residential address across sources. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Demographics.** Demographic data on racial and ethnic identity, age, and sex are also compiled from multiple data sources to construct a more comprehensive demographic profile of important populations, such as Washington workers.  Demographic data in WMLAD come from four different sources (see Table 2). Age and sex are reported in all four sources, and race/ethnicity is reported in the birth parent records and the DSHS client records. In addition, we are able to impute race and ethnicity for individuals who are included in the DOL and SOS records, using the Bayesian Improved Surname Geocoding method.  This method imputes a probability that an individual belongs to one of six race/ethnicity categories based on combining information about (1) the probability of belonging to a given category based on an individual’s last name and (2) the proportion of people in a given category who live in a given Census tract or block group. As an illustration of the coverage of the demographic records, Figure 1 depicts the availability of demographic data for anyone who worked in a UI-eligible job in Washington between 2010 and 2016 (a population of roughly 5.7 million workers).
 
-**Markdown generator**
+**Residential addresses.** In addition, the team is developing novel methods to compile address data (from voter records, driver’s license records, DSHS client records, and birth records) and create longitudinal residential address histories at the Census block level. Address data are drawn from the same four sources that contain demographic information: driver’s license records, voter records, DSHS client records, and DOH birth parent records. The WMLAD team is developing a method to compile monthly data from across these sources and impute residential location in months where there is no known address reported in the administrative data. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Using WMLAD for Policy-Relevant Research
+=====
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+As the WMLAD team continues to build out the data, WMLAD is being used to build knowledge about policy effects as well as the interplay among wages, employment, and different family and social outcomes. Ongoing and planned research includes:
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+•	Assessing the effects of Seattle’s Minimum Wage Ordinance on means-tested benefit use.
+•	Studying parental employment patterns around the time of a child's birth in a period of time (2012-2016) prior to implementation of Washington State's Paid Family and Medical Leave policy, in the interest of developing pre-policy baseline estimates.
+•	Exploring the temporal dynamics of wage earnings and means-tested benefits and the relationship between earnings volatility and benefit take-up. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
