@@ -38,7 +38,9 @@ Using WMLAD for Policy-Relevant Research
 
 As the WMLAD team continues to build out the data, WMLAD is being used to build knowledge about policy effects as well as the interplay among wages, employment, and different family and social outcomes. Ongoing and planned research includes:
 
-•	Assessing the effects of Seattle’s Minimum Wage Ordinance on means-tested benefit use.
-•	Studying parental employment patterns around the time of a child's birth in a period of time (2012-2016) prior to implementation of Washington State's Paid Family and Medical Leave policy, in the interest of developing pre-policy baseline estimates.
-•	Exploring the temporal dynamics of wage earnings and means-tested benefits and the relationship between earnings volatility and benefit take-up. 
+*	Assessing the effects of Seattle’s Minimum Wage Ordinance on means-tested benefit use.
+*	
+*	Studying parental employment patterns around the time of a child's birth in a period of time (2012-2016) prior to implementation of Washington State's Paid Family and Medical Leave policy, in the interest of developing pre-policy baseline estimates.
+*	
+*	Exploring the temporal dynamics of wage earnings and means-tested benefits and the relationship between earnings volatility and benefit take-up. 
 
