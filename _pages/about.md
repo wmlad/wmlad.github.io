@@ -3,8 +3,6 @@ layout: archive
 title: "About"
 permalink: /about/
 author_profile: true
-redirect_from:
-  - /about.html
 ---
 
 ## About WMLAD
