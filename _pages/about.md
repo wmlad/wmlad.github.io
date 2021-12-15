@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about/
 title: "About the Washington Merged Longitudinal Administrative Data"
 excerpt: "About WMLAD"
 author_profile: true
