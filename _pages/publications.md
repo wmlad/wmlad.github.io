@@ -1,16 +1,53 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Our Work"
+permalink: /work/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[Papers](#papers)
+[Projects Underway](#projects-underway)
 
-{% include base_path %}
+### Papers
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+asdlfkj
+asdf
+
+asdf
+asdf
+asd
+fas
+dfa
+sdf
+asdf
+as
+dfa
+sdf
+asd
+fa
+sdf
+asdf
+asdf
+
+
+asdf
+asdf
+asdf
+
+
+### Projects Underway
+
+asdf
+asdf
+asd
+f
+
+a
+sdf
+asdf
+asdf
+asdf
+asdf
+asd
+fa
+sdf
