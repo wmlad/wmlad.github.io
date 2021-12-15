@@ -4,8 +4,8 @@ title: "About the Washington Merged Longitudinal Administrative Data"
 excerpt: "About WMLAD"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /about/
+  - /about.html
 ---
 
 
