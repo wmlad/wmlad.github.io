@@ -1,10 +1,9 @@
 ---
+layout: archive
+title: "About"
 permalink: /about/
-title: "About the Washington Merged Longitudinal Administrative Data"
-excerpt: "About WMLAD"
 author_profile: true
-redirect_from: 
-  - /about/
+redirect_from:
   - /about.html
 ---
 
