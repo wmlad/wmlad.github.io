@@ -35,3 +35,14 @@ Ph.D. Student, Daniel J. Evans School of Public Policy and Governance, Universit
 [Elizabeth Pelletier](https://evans.uw.edu/profile/elizabeth-pelletier/)
 
 Ph.D. Student, Daniel J. Evans School of Public Policy and Governance, University of Washington
+
+
+### Washington State Research Partners
+
+[Washington State Department of Social and Health Services, Research and Data Analysis Division](https://www.dshs.wa.gov/ffa/research-and-data-analysis)
+
+
+### Funders
+
+
+
