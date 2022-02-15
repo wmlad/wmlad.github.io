@@ -21,7 +21,51 @@ WMLAD draws administrative records from seven state agencies:
 | WA State Patrol | Arrest records | Arrest information | 2000-2018 | 777,416 people arrested |
 
 
-While there is substantial overlap between the populations covered by each data source, the component datasets of WMLAD represent distinct populations based on the administrative processes that lead individuals to be represented in each set of records. The table below represents the overlap between key WMLAD populations. Each column represents a key data source, and each row indicates what share of individuals in that data source are also included in another source. 
+While there is substantial overlap between the populations covered by each data source, the component datasets of WMLAD represent distinct populations based on the administrative processes that lead individuals to be represented in each set of records. The table below represents the overlap between key WMLAD populations for the time period 2010-2016. Each column represents a key data source, and each row indicates what share of individuals in that data source are also included in a source designated in the column header.
+
+
+
+Driver’s license holders | Registered voters | Workers | DSHS clients
+Parents
+% holding driver’s license
+100%
+
+
+83%
+ 80% 
+66%
+87%
+% registered to vote
+64% 
+100%
+57%
+44%
+58%
+% voted
+50%
+68%
+44%
+28%
+41%
+% worked
+60%
+55%
+100%
+50%
+72%
+% DSHS clients
+43%
+37%
+43% 
+100%
+58%
+% new parents
+10%
+9% 
+11%
+11%
+100%
+
 
 
 ## Data Construction
