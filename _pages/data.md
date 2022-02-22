@@ -25,16 +25,10 @@ While there is substantial overlap between the populations covered by each data 
 
 
 
-Driver’s license holders | Registered voters | Workers | DSHS clients
-Parents
-% holding driver’s license
-100%
+| |Driver’s license holders | Registered voters | Workers | DSHS clients | Parents |
+|---|---|---|---|---|---|
+| % holding driver’s license | 100% | 83% | 80% | 66%| 87% |
 
-
-83%
- 80% 
-66%
-87%
 % registered to vote
 64% 
 100%
