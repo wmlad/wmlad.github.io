@@ -45,5 +45,8 @@ The UW team contracted with the Research and Data Analysis (RDA) division of Was
 
 From the raw data files, the WMLAD team has created a series of processed datasets suitable for analysis. We designate analytic datasets that may be useful for multiple inquiries as “Data Resources” and post static versions of them along with code and documentation.  Data resources to date include:
 
+* Compiled demographics data from across WMLAD sources
+* Compiled residential address data from across WMLAD sources
+* ESD UI records with geocoded employer location
 
 
