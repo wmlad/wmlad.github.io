@@ -41,8 +41,15 @@ Ph.D. Student, Daniel J. Evans School of Public Policy and Governance, Universit
 
 [Washington State Department of Social and Health Services, Research and Data Analysis Division](https://www.dshs.wa.gov/ffa/research-and-data-analysis)
 
+[Washington State Department of Social and Health Services, Economic Services Administration](https://www.dshs.wa.gov/esa)
 
 ### Funders
 
+City of Seattle
 
+[Arnold Ventures](https://www.arnoldventures.org/)
+
+[Center for Equitable Growth](https://equitablegrowth.org/)
+
+[JPB Foundation](https://www.jpbfoundation.org/) via [Institute for Research on Poverty](https://www.irp.wisc.edu/research/researcher-practitioner-evaluation-partnership-grants/)
 
