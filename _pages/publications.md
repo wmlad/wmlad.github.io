@@ -20,7 +20,7 @@ author_profile: true
 
 ### Publications
 
-Mark Long, Elizabeth Pelletier, and Jennifer Romich. Forthcoming. [“Constructing Monthly Residential Locations of Adults Using Merged State Administrative Data.”](https://wmlad.github.io.files/LongPelletierRomich_MonthlyResidentialLocations.pdf)
+Mark Long, Elizabeth Pelletier, and Jennifer Romich. Forthcoming. [“Constructing Monthly Residential Locations of Adults Using Merged State Administrative Data.”](https://wmlad.github.io/files/LongPelletierRomich_MonthlyResidentialLocations.pdf)
  
 Heather D. Hill, Elizabeth Pelletier, and Jennifer Romich. 2021. “Parental Employment Around a Birth: Evidence from Washington State.” Report produced for the Washington State Employment Security Department.
 
