@@ -21,12 +21,6 @@ Daniel J. Evans Endowed Professor of Social Policy, Daniel J. Evans School of Pu
 
 Professor, Daniel J. Evans School of Public Policy and Governance, University of Washington
 
-
-[Dr. Mark C. Long](https://evans.uw.edu/profile/mark-long/)
-
-Professor, Daniel J. Evans School of Public Policy and Governance, University of Washington
-
-
 [Callie Freitag](https://evans.uw.edu/profile/callie-freitag/)
 
 Ph.D. Student, Daniel J. Evans School of Public Policy and Governance, University of Washington
@@ -36,6 +30,9 @@ Ph.D. Student, Daniel J. Evans School of Public Policy and Governance, Universit
 
 Ph.D. Student, Daniel J. Evans School of Public Policy and Governance, University of Washington
 
+### Research Team Alumni
+
+[Dr. Mark C. Long]([https://evans.uw.edu/profile/mark-long/](https://profiles.ucr.edu/app/home/profile/marklong))
 
 ### Washington State Research Partners
 
