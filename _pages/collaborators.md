@@ -32,7 +32,7 @@ Ph.D. Student, Daniel J. Evans School of Public Policy and Governance, Universit
 
 ### Research Team Alumni
 
-[Dr. Mark C. Long]([https://evans.uw.edu/profile/mark-long/](https://profiles.ucr.edu/app/home/profile/marklong))
+[Dr. Mark C. Long](https://profiles.ucr.edu/app/home/profile/marklong)
 
 ### Washington State Research Partners
 
