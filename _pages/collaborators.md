@@ -45,5 +45,5 @@ City of Seattle
 
 [JPB Foundation](https://www.jpbfoundation.org/) via [Institute for Research on Poverty](https://www.irp.wisc.edu/research/researcher-practitioner-evaluation-partnership-grants/)
 
-[WorkRise Network] (https://www.workrisenetwork.org)
+[WorkRise Network](https://www.workrisenetwork.org)
 
