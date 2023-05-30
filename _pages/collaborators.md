@@ -19,12 +19,13 @@ author_profile: true
 
 [Tess Abrahamson-Richards](http://iwri.org/people/tess-abrahamson-richards-spokane/)
 
-[Elizabeth Deng] (https://www.linkedin.com/in/lizdeng/)
+[Elizabeth Deng](https://www.linkedin.com/in/lizdeng/)
 
 ### Research Team Alumni
 
 [Dr. Mark C. Long](https://profiles.ucr.edu/app/home/profile/marklong)
-[Anita Rocha] (https://csde.washington.edu/affiliates/anita-rocha/)
+
+[Anita Rocha](https://csde.washington.edu/affiliates/anita-rocha/)
 
 ### Washington State Research Partners
 
