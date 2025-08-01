@@ -22,6 +22,10 @@ author_profile: true
 
 ### Publications
 
+Abrahamson-Richards*, Teresa, Kilohana Haitsuka*, Elizabeth Pelletier, and Jennifer Romich. In press. “Perinatal Wage Equity, Parental Leave Access, and Reproductive Justice Among American Indian and Alaska Native Working Mothers in Washington State,” Social Service Review.
+
+Pelletier, Elizabeth* and Jennifer Romich, 2025. [Supplementing state employment records with demographic data](https://doi.org/10.21916/mlr.2025.2) Monthly Labor Review, U.S. Bureau of Labor Statistics, February 2025.
+
 Long, Mark C., Elizabeth Pelletier, and Jennifer Romich. 2022. [Constructing Monthly Residential Locations of Adults Using Merged State Administrative Data.](https://www.tandfonline.com/doi/abs/10.1080/00324728.2022.2085776) Population Studies 76:2, 253-272.  
  
 Heather D. Hill, Elizabeth Pelletier, and Jennifer Romich. 2021. “Parental Employment Around a Birth: Evidence from Washington State.” Report produced for the Washington State Employment Security Department. [Available by request.](hdhill@uw.edu)
@@ -32,9 +36,12 @@ Wage Equity StudyTeam, 2023. [“Wage Equity for Non-profit Human Services Worke
 
 ### Working Papers
 
-Pelletier, Elizabeth and Jennifer Romich. 2023. “Supplementing Unemployment Insurance Records with Demographic Data.” [Available by request.](romich@uw.edu)
+Freitag, Callie, Hanna Cho, and Jennifer Romich. 2025. [“Disaggregating City-Level Minimum Wage Impacts: How Do Young Workers Fare?”.](github.com/wmlad/wmlad.github.io/blob/master/files/Freitag_Cho_Romich_MinWage_YoungWorkers_PAA2025.pdf)
 
-### Presentations
+
+### Select Presentations
+
+Callie Freitag, Hanna Cho, and Jennifer Romich. “Disaggregating City-Level Minimum Wage Impacts: How Do Young Workers Fare?” Poster presented at the Population Association of America Annual Meeting, Washington, DC, April 11, 2025.
 
 Callie Freitag, Elizabeth Pelletier, Jennifer Romich, Heather D. Hill, Scott Allard, and Hilary Wething.  2023. [“How does raising the minimum wage affect SNAP participation?”](https://sswr.confex.com/sswr/2023/webprogram/Paper48872.html)Presented at the annual meeting of the Society for Social Work and Research. Phoenix, AZ. 
 
