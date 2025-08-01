@@ -24,7 +24,7 @@ author_profile: true
 
 Abrahamson-Richards*, Teresa, Kilohana Haitsuka*, Elizabeth Pelletier, and Jennifer Romich. In press. “Perinatal Wage Equity, Parental Leave Access, and Reproductive Justice Among American Indian and Alaska Native Working Mothers in Washington State,” Social Service Review.
 
-Pelletier, Elizabeth* and Jennifer Romich, 2025. [Supplementing state employment records with demographic data](https://doi.org/10.21916/mlr.2025.2) Monthly Labor Review, U.S. Bureau of Labor Statistics, February 2025.
+Pelletier, Elizabeth* and Jennifer Romich, 2025. [Supplementing state employment records with demographic data.](https://doi.org/10.21916/mlr.2025.2) Monthly Labor Review, U.S. Bureau of Labor Statistics, February 2025.
 
 Long, Mark C., Elizabeth Pelletier, and Jennifer Romich. 2022. [Constructing Monthly Residential Locations of Adults Using Merged State Administrative Data.](https://www.tandfonline.com/doi/abs/10.1080/00324728.2022.2085776) Population Studies 76:2, 253-272.  
  
@@ -36,7 +36,7 @@ Wage Equity StudyTeam, 2023. [“Wage Equity for Non-profit Human Services Worke
 
 ### Working Papers
 
-Freitag, Callie, Hanna Cho, and Jennifer Romich. 2025. [“Disaggregating City-Level Minimum Wage Impacts: How Do Young Workers Fare?”.](github.com/wmlad/wmlad.github.io/blob/master/files/Freitag_Cho_Romich_MinWage_YoungWorkers_PAA2025.pdf)
+Freitag, Callie, Hanna Cho, and Jennifer Romich. 2025. [“Disaggregating City-Level Minimum Wage Impacts: How Do Young Workers Fare?”](wmlad.github.io/files/Freitag_Cho_Romich_MinWage_YoungWorkers_PAA2025.pdf)
 
 
 ### Select Presentations
