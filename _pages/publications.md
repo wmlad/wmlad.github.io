@@ -36,7 +36,7 @@ Wage Equity StudyTeam, 2023. [“Wage Equity for Non-profit Human Services Worke
 
 ### Working Papers
 
-Freitag, Callie, Hanna Cho, and Jennifer Romich. 2025. [“Disaggregating City-Level Minimum Wage Impacts: How Do Young Workers Fare?”](wmlad.github.io/files/Freitag_Cho_Romich_MinWage_YoungWorkers_PAA2025.pdf)
+Freitag, Callie, Hanna Cho, and Jennifer Romich. 2025. [“Disaggregating City-Level Minimum Wage Impacts: How Do Young Workers Fare?”](files/Freitag_Cho_Romich_MinWage_YoungWorkers_PAA2025.pdf)
 
 
 ### Select Presentations
