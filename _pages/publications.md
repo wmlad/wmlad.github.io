@@ -38,6 +38,7 @@ Wage Equity StudyTeam, 2023. [“Wage Equity for Non-profit Human Services Worke
 
 Freitag, Callie, Hanna Cho, and Jennifer Romich. 2025. [“Disaggregating City-Level Minimum Wage Impacts: How Do Young Workers Fare?”](https://nbviewer.org/github/wmlad/wmlad.github.io/blob/master/files/Freitag_Cho_Romich_MinWage_YoungWorkers_PAA2025.pdf)
 
+Policy Brief: “The Impact of Seattle’s $15 Minimum Wafe of Young Workers”
 
 ### Select Presentations
 
